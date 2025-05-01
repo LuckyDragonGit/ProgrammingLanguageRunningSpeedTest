@@ -1,5 +1,4 @@
 <style>
-    code{}
 </style>
 
 # Python
